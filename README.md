@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/yoby06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/yoby06" height="30" width="40" /></a>
-<a href="https://twitter.com/twitter.com/yigitbayarlarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/yigitbayarlarr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yi%c4%9fit-o%c4%9ful-bayarlar-0966691a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yi%c4%9fit-o%c4%9ful-bayarlar-0966691a3/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20431741/yoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20431741/yoby" height="30" width="40" /></a>
+<a href="https://codepen.io/yoby06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/yoby06" height="30" width="40" /></a>
+<a href="https://twitter.com/yigitbayarlarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/yigitbayarlarr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yi%c4%9fit-o%c4%9ful-bayarlar-0966691a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yi%c4%9fit-o%c4%9ful-bayarlar-0966691a3/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20431741/yoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20431741/yoby" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yoby06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yoby06" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@yoby06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@yoby06" height="30" width="40" /></a>
+<a href="https://medium.com/@yoby06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@yoby06" height="30" width="40" /></a>
 <a href="https://discord.gg/YOBY#9646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YOBY#9646" height="30" width="40" /></a>
 </p>
 
