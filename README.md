@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently working on **Goldtag / Fintag**
 
-- 👨‍💻 I’m currently learning **React & React Native**
+- 👨‍💻 I’m currently learning **React & React Native*
+
+-------------------------------------------------------
+
+- 📫 How to reach me **yigit.ogul.bayarlar@gmail.com**
 
 - 📝 More details about me [https://www.linkedin.com/in/yi%C4%9Fit-o%C4%9Ful-bayarlar-0966691a3/](https://www.linkedin.com/in/yi%C4%9Fit-o%C4%9Ful-bayarlar-0966691a3/)
 
-- 📫 How to reach me **yigit.ogul.bayarlar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
