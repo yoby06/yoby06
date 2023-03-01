@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Goldtag / Fintag**
 
-- 👨‍💻 I’m currently learning **React & React Native*
+- 👨‍💻 I’m currently learning **React & React Native**
 
 -------------------------------------------------------
 
