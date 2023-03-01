@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiğit Oğul Bayarlar</h1>
-<h3 align="center">A passionate junior frontend developer from Turkey</h3>
+<h3 align="center">A passionate Junior Frontend Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Goldtag / Fintag**
 
