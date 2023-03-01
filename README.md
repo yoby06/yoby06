@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Goldtag / Fintag**
 
-- 🌱 I’m currently learning **React & React Native**
+- 👨‍💻 I’m currently learning **React & React Native**
 
 - 📝 More details about me [https://www.linkedin.com/in/yi%C4%9Fit-o%C4%9Ful-bayarlar-0966691a3/](https://www.linkedin.com/in/yi%C4%9Fit-o%C4%9Ful-bayarlar-0966691a3/)
 
