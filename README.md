@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently learning **React & React Native**
 
 </br>
---------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </br>
 
 - 📫 How to reach me **yigit.ogul.bayarlar@gmail.com**
@@ -14,7 +14,7 @@
 - 📝 More details about me **[www.linkedin.com/in/yigitogulbayarlar](www.linkedin.com/in/yigitogulbayarlar/)**
 
 </br>
---------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </br>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +27,9 @@
 <a href="https://medium.com/@yoby06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@yoby06" height="30" width="40" /></a>
 <a href="https://discord.gg/YOBY#9646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YOBY#9646" height="30" width="40" /></a>
 </p>
-
+</br>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
