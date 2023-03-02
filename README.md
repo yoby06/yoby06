@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yiğit Oğul Bayarlar</h1>
 <h3 align="center">A passionate Junior Frontend Developer from Turkey</h3>
-
-
+</br>
 - 🔭 I’m currently working on **Goldtag / Fintag**
 
 - 👨‍💻 I’m currently learning **React & React Native**
