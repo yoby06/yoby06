@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently learning **React & React Native**
 
 </br>
--------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 </br>
 
 - 📫 How to reach me **yigit.ogul.bayarlar@gmail.com**
@@ -14,7 +14,7 @@
 - 📝 More details about me **[www.linkedin.com/in/yigitogulbayarlar](www.linkedin.com/in/yigitogulbayarlar/)**
 
 </br>
--------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 </br>
 
 <h3 align="left">Connect with me:</h3>
